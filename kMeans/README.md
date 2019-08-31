@@ -26,5 +26,5 @@ More on Clustering: https://towardsdatascience.com/the-5-clustering-algorithms-d
 * #### after 10th Iteration
   ![](results/iter10.jpg)
 
- ### Final kMeans Clustering Result
+ ### Result of kMeans Clustering 
  ![](results/iter12.jpg)
