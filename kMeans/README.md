@@ -14,16 +14,16 @@ More on Clustering: https://towardsdatascience.com/the-5-clustering-algorithms-d
 
 ### Predicting Cluster Centers
 
-* #### Predicted Cluster Centers after 0th Iteration
+* #### after 0th Iteration
   ![](results/iter0.jpg)
 
-* #### Predicted Cluster Centers after 4th Iteration
+* #### after 4th Iteration
   ![](results/iter4.jpg)
 
-* #### Predicted Cluster Centers after 8th Iteration
+* #### after 8th Iteration
   ![](results/iter8.jpg)
 
-* #### Predicted Cluster Centers after 12th Iteration
+* #### after 12th Iteration
   ![](results/iter12.jpg)
 
  ### Final kMeans Clustering Result
