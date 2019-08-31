@@ -16,16 +16,16 @@ More on Clustering: https://towardsdatascience.com/the-5-clustering-algorithms-d
 
 ### Predicting Cluster Centers
 
-* #### Initialization of Predicted Cluster Centers
+* #### after Initialization
   ![](results/1*progress_0000_initialization_of_cluster_centers.jpg)
 
-* #### Predicted Cluster Centers after 2nd Iteration
+* #### after 2nd Iteration
   ![](results/1*progress_0002_cluster_centers.jpg)
 
-* #### Predicted Cluster Centers after 4th Iteration
+* #### after 4th Iteration
   ![](results/1*progress_0004_cluster_centers.jpg)
 
-* #### Predicted Cluster Centers after 6th Iteration
+* #### after 6th Iteration
   ![](results/1*progress_0006_cluster_centers.jpg)
 
 ### Final Mean Shift Clustering Result
