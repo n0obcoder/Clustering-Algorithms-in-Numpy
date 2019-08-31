@@ -49,5 +49,5 @@ Implementation of some of the most used Clustering Algorithms from scratch in Py
   * #### Predicted Cluster Centers after 12th Iteration
     ![](kMeans/results/iter12.jpg)
     
-    ### Final kMeans Clustering Result
-    ![](kMeans/results/iter12.jpg)
+   ### Final kMeans Clustering Result
+   ![](kMeans/results/iter12.jpg)
