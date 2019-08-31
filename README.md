@@ -2,7 +2,7 @@
 
 Implementation of some of the most used Clustering Algorithms from scratch in Python (only using Numpy).
 
-* ## MeanShift
+* ## MeanShift Clustering
 
   ### Generated Data
   ![](MeanShift/results/0*generated_data.jpg)
@@ -24,7 +24,30 @@ Implementation of some of the most used Clustering Algorithms from scratch in Py
   * #### Predicted Cluster Centers after 6th Iteration
     ![](MeanShift/results/1*progress_0006_cluster_centers.jpg)
 
-  ### Final Result
+  ### Final Mean Shift Clustering Result
   ![](MeanShift/results/3*meanShift_result.jpg)
 
-* ## xyz ALgo
+* ## kMeans Clustering
+
+  ### Generated Data
+  ![](kMeans/results/generated_data.jpg)
+
+  ### Before kMeans
+  ![](kMeans/results/before_kmeans.jpg)
+
+  ### Predicting Cluster Centers
+
+  * #### Predicted Cluster Centers after 0th Iteration
+    ![](kMeans/results/iter0.jpg)
+      
+  * #### Predicted Cluster Centers after 4th Iteration
+    ![](kMeans/results/iter4.jpg)
+  
+  * #### Predicted Cluster Centers after 8th Iteration
+    ![](kMeans/results/iter8.jpg)
+  
+  * #### Predicted Cluster Centers after 12th Iteration
+    ![](kMeans/results/iter12.jpg)
+    
+    ### Final kMeans Clustering Result
+    ![](kMeans/results/iter12.jpg)
