@@ -28,5 +28,5 @@ More on Clustering: https://towardsdatascience.com/the-5-clustering-algorithms-d
 * #### after 6th Iteration
   ![](results/1*progress_0006_cluster_centers.jpg)
 
-### Final Mean Shift Clustering Result
+### Result of Mean Shift Clustering
 ![](results/3*meanShift_result.jpg)
