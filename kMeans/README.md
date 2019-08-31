@@ -17,14 +17,14 @@ More on Clustering: https://towardsdatascience.com/the-5-clustering-algorithms-d
 * #### after 0th Iteration
   ![](results/iter0.jpg)
 
-* #### after 4th Iteration
-  ![](results/iter4.jpg)
+* #### after 3rd Iteration
+  ![](results/iter3.jpg)
 
-* #### after 8th Iteration
-  ![](results/iter8.jpg)
+* #### after 7th Iteration
+  ![](results/iter7.jpg)
 
-* #### after 12th Iteration
-  ![](results/iter12.jpg)
+* #### after 10th Iteration
+  ![](results/iter10.jpg)
 
  ### Final kMeans Clustering Result
  ![](results/iter12.jpg)
