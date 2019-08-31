@@ -9,7 +9,7 @@ More on Clustering: https://towardsdatascience.com/the-5-clustering-algorithms-d
 ### Generated Data
 ![](results/generated_data.jpg)
 
-### Before kMeans
+### Randomly Initialized Cluster Centers Before kMeans Algorithm
 ![](results/before_kmeans.jpg)
 
 ### Predicting Cluster Centers
