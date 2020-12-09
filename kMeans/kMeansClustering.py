@@ -129,7 +129,7 @@ def assign_cluster(x, y, kcenters):
     
     return np.argmin(distances)
 
-def get_mean_shit_value(old_point, new_point):
+def get_mean_shift_value(old_point, new_point):
     #pdb.set_trace()
     mean_shift_value = np.sqrt(  np.square(old_point[0] - new_point[0]) + np.square(old_point[1] - new_point[1])  )
     return mean_shift_value
@@ -176,7 +176,7 @@ for n in range(iterations):
         #print(type(x_mean))
         #print('kcenters[{}] shifted from {} to {}'.format(i, kcenters[i],[x_mean,y_mean]))
         
-        mean_shift_value = get_mean_shit_value(kcenters[i], [x_mean, y_mean])
+        mean_shift_value = get_mean_shift_value(kcenters[i], [x_mean, y_mean])
         if disp:
             print('mean_shift_value: ', mean_shift_value)
         
